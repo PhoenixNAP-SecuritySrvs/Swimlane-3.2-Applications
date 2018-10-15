@@ -1,4 +1,4 @@
-# Swimlane-3.2-Applications
+# Swimlane 3.2 Applications
 
 
 ## Prerequisites
