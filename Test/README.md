@@ -1,5 +1,6 @@
-# Swimlane-3.2-Applications
+# Test Application
 
+Test application, playground for ideas.
 
 ## Prerequisites
 
