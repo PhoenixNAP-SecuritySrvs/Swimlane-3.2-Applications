@@ -1,5 +1,6 @@
-# Swimlane-3.2-Applications
+# White Pages Application
 
+Application keeping track of Customer contact information.
 
 ## Prerequisites
 

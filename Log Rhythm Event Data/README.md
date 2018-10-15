@@ -1,4 +1,5 @@
-# Swimlane-3.2-Applications
+# Log Rhythm Event and Drilldown Data Application
+
 
 
 ## Prerequisites

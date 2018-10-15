@@ -1,5 +1,6 @@
-# Swimlane-3.2-Applications
+# Configuration Manager Application
 
+Attempt to have sentinel config store for configparser python.
 
 ## Prerequisites
 

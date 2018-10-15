@@ -1,5 +1,6 @@
-# Swimlane-3.2-Applications
+# User Pages Application
 
+Application to keep track of users information for other system use by user.
 
 ## Prerequisites
 

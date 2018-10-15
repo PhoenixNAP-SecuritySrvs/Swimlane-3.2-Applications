@@ -1,5 +1,6 @@
-# Swimlane-3.2-Applications
+# Security Events Applications
 
+Event that stores all SIEM and other security related Events.
 
 ## Prerequisites
 

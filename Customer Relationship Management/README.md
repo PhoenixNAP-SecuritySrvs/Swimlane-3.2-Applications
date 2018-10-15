@@ -1,5 +1,6 @@
-# Swimlane-3.2-Applications
+# Customer Relationship Management Application
 
+Customer Relationship Management Application to store customer information to pull in to other Applications.
 
 ## Prerequisites
 

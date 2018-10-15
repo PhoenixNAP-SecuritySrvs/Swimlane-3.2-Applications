@@ -1,5 +1,6 @@
-# Swimlane-3.2-Applications
+# Use Case Control Application
 
+Use Cases for SIEM Alerts and Security Events
 
 ## Prerequisites
 
