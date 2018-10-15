@@ -1,1 +1,111 @@
-{"swimlaneVersion":"3.2+5.2.0+5","application":{"description":"DOCX Reporting","acronym":"DDR","trackingFieldId":"5b8430ed2e07860d841fe4ef","layout":[{"name":"Run Report","helpTextType":0,"helpText":" ","layoutType":"integration","id":"5b8430f12e11f558a2c34cda","row":1,"col":1,"sizex":1,"sizey":0},{"fieldId":"ah5dr","helpTextType":"none","helpText":" ","layoutType":"field","id":"5b8430f316a2b78c4d054628","row":2,"col":1,"sizex":1,"sizey":0},{"fieldId":"ayx2u","helpTextType":"none","helpText":" ","layoutType":"field","id":"5b8438e94b3f1d2c17225aeb","row":3,"col":1,"sizex":1,"sizey":0}],"fields":[{"maxSize":100000,"id":"ah5dr","name":"Attachment","key":"attachment","fieldType":"attachment","required":false,"readOnly":false,"supportsMultipleOutputMappings":false},{"prefix":"","suffix":"","placeholder":"","inputType":"multiline","lengthType":"none","unique":false,"visualize":false,"visualizeMode":0,"id":"ayx2u","name":"Error Msg","key":"error-msg","fieldType":"text","required":false,"readOnly":false,"supportsMultipleOutputMappings":false},{"prefix":"DDR-","id":"5b8430ed2e07860d841fe4ef","name":"Tracking Id","key":"tracking-id","fieldType":"tracking","readOnly":true,"supportsMultipleOutputMappings":false}],"workspaces":[],"createWorkspace":false,"createdDate":"2018-08-27T17:12:13.537Z","modifiedDate":"2018-08-27T17:46:46.162Z","timeTrackingEnabled":false,"id":"aLMvdm5hXXBKOeBrF","name":"DXRP - DOCX Reporting","disabled":false},"reports":[],"statsReports":[],"workspaces":[{"createdDate":"2018-08-27T17:12:13.733Z","modifiedDate":"2018-08-27T17:12:13.733Z","dashboards":[],"applications":["aLMvdm5hXXBKOeBrF"],"id":"aLgsHNaTENzq5SMPV","name":"DXRP - DOCX Reporting Workspace","disabled":false}],"dashboards":[],"workflows":[],"exportTransformations":[],"referencedApplications":{"$id":"1","$values":[]}}
+{
+  "swimlaneVersion": "3.2+5.2.0+5",
+  "application": {
+    "description": "DOCX Reporting",
+    "acronym": "DDR",
+    "trackingFieldId": "5b8430ed2e07860d841fe4ef",
+    "layout": [
+      {
+        "layoutType": "integration",
+        "id": "5b8430f12e11f558a2c34cda",
+        "row": 1,
+        "col": 1,
+        "sizex": 1,
+        "sizey": 0,
+        "name": "Run Report",
+        "helpTextType": 0,
+        "helpText": " "
+      },
+      {
+        "helpTextType": "none",
+        "helpText": " ",
+        "layoutType": "field",
+        "id": "5b8430f316a2b78c4d054628",
+        "row": 2,
+        "col": 1,
+        "sizex": 1,
+        "sizey": 0,
+        "fieldId": "ah5dr"
+      },
+      {
+        "helpTextType": "none",
+        "helpText": " ",
+        "layoutType": "field",
+        "id": "5b8438e94b3f1d2c17225aeb",
+        "row": 3,
+        "col": 1,
+        "sizex": 1,
+        "sizey": 0,
+        "fieldId": "ayx2u"
+      }
+    ],
+    "fields": [
+      {
+        "id": "ah5dr",
+        "name": "Attachment",
+        "key": "attachment",
+        "fieldType": "attachment",
+        "required": false,
+        "readOnly": false,
+        "supportsMultipleOutputMappings": false,
+        "maxSize": 100000
+      },
+      {
+        "inputType": "multiline",
+        "id": "ayx2u",
+        "name": "Error Msg",
+        "key": "error-msg",
+        "fieldType": "text",
+        "required": false,
+        "readOnly": false,
+        "supportsMultipleOutputMappings": false,
+        "prefix": "",
+        "suffix": "",
+        "placeholder": "",
+        "lengthType": "none",
+        "unique": false,
+        "visualize": false,
+        "visualizeMode": 0
+      },
+      {
+        "id": "5b8430ed2e07860d841fe4ef",
+        "name": "Tracking Id",
+        "key": "tracking-id",
+        "fieldType": "tracking",
+        "readOnly": true,
+        "supportsMultipleOutputMappings": false,
+        "prefix": "DDR-"
+      }
+    ],
+    "workspaces": [],
+    "createWorkspace": false,
+    "createdDate": "2018-08-27T17:12:13.537Z",
+    "modifiedDate": "2018-08-27T17:46:46.162Z",
+    "timeTrackingEnabled": false,
+    "id": "aLMvdm5hXXBKOeBrF",
+    "name": "DXRP - DOCX Reporting",
+    "disabled": false
+  },
+  "reports": [],
+  "statsReports": [],
+  "workspaces": [
+    {
+      "createdDate": "2018-08-27T17:12:13.733Z",
+      "modifiedDate": "2018-08-27T17:12:13.733Z",
+      "dashboards": [],
+      "applications": [
+        "aLMvdm5hXXBKOeBrF"
+      ],
+      "id": "aLgsHNaTENzq5SMPV",
+      "name": "DXRP - DOCX Reporting Workspace",
+      "disabled": false
+    }
+  ],
+  "dashboards": [],
+  "workflows": [],
+  "exportTransformations": [],
+  "referencedApplications": {
+    "$id": "1",
+    "$values": []
+  }
+}
